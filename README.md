@@ -5,7 +5,7 @@ SPARK turns a production alert into a diagnosed root cause and a one-click remed
 
 **Track:** Dynatrace · **Built with:** Google Cloud (Vertex AI Gemini, Agent Development Kit, Cloud Run)
 
-**Live:** [spark-366154347729.us-central1.run.app](https://spark-366154347729.us-central1.run.app) — click **Live Demo** to watch the full detect → diagnose → approve → rollback flow in ~30 seconds, no account required.
+**Live Demo** [spark-366154347729.us-central1.run.app](https://youtu.be/fe-14sSADsQ) — click **Live Demo** to watch the full detect → diagnose → approve → rollback flow in ~30 seconds, no account required.
 
 ---
 
